@@ -16,6 +16,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Libs\Library.PassportValidation\MachinePassportValidation\PassportValidation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="ISO3166.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>

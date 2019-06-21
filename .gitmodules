@@ -1,0 +1,4 @@
+[submodule "Libs/Library.PassportValidation"]
+	path = Libs/Library.PassportValidation
+	url = https://github.com/studentboy87/Library.PassportValidation.git
+	branch = master
